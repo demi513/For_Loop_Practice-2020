@@ -1,4 +1,4 @@
-# BasicCodingExercise2020
+# For Loop Practice
 
 ## Table of Contents
 - [What I'm learning](#what-im-learning)
