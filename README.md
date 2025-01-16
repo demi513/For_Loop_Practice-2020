@@ -9,7 +9,7 @@
 - [Challenge 4](#challenge-4)
 - [Challenge 5](#challenge-5)
 
-## What I'm learning
+## What I learned
 - `for` loops
 
 
