@@ -1,6 +1,17 @@
 # BasicCodingExercise2020
+
+## Table of Contents
+- [What I'm learning](#what-im-learning)
+- [Challenge 0](#challenge-0)
+- [Challenge 1](#challenge-1)
+- [Challenge 2](#challenge-2)
+- [Challenge 3](#challenge-3)
+- [Challenge 4](#challenge-4)
+- [Challenge 5](#challenge-5)
+
 ## What I'm learning
 - `for` loops
+
 
 ## Challenge 0
 Input: `3`
